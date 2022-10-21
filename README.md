@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabya2001&label=Profile%20views&color=0e75b6&style=flat" alt="sabya2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabya2001" alt="sabya2001" /></a> </p>
-
 - 🔭 I’m currently working on [Logger.log](https://loggerlog.me)
 
 - 🌱 I’m currently learning **NextJS**
@@ -26,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabya2001&show_icons=true&locale=en" alt="sabya2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sabya2001&" alt="sabya2001" /></p>
-
